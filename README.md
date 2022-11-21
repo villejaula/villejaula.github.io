@@ -1,10 +1,7 @@
 # github.io
-    - Business card with HTML / CSS / JS
+    - Business card with HTML / CSS
     - Hover to flip card 
-    - Button for mobile?
 
 ## Todo
-    - Hrefs
-    - resonsiveness + landscape
-    - touch
-    - background
+    - Href to portfolio
+    
